@@ -1,0 +1,9 @@
+pip install --upgrade huggingface_hub
+
+Optional dependencies
+
+pip install 'huggingface_hub[cli,torch]'
+pip install 'huggingface_hub[tensorflow]'
+
+
+sudo update-alternatives --config python
