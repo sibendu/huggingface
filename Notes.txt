@@ -7,3 +7,6 @@ pip install 'huggingface_hub[tensorflow]'
 
 
 sudo update-alternatives --config python
+
+
+jupyter notebook --ip='*' --no-browser

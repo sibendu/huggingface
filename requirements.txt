@@ -1,6 +1,9 @@
 transformers
+datasets
 gradio
 timm
 timm
 inflect
 phonemizer
+librosa
+
